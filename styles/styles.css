@@ -19,7 +19,7 @@ body{
 
 .container_global{
     max-width: 1200px;
-    min-width: 500px;
+    min-width: 300px;
     margin: 0 auto;
     background-color: red;
 }
